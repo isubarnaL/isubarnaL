@@ -1,6 +1,5 @@
-### <div id="header" align="center">
-  <img src="1.png" width="300"/>
-</div>
+### <div align="center">
+  <img src="1.png" width="300"/></div>
 
 ---
 
