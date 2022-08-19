@@ -1,3 +1,6 @@
+<div id="header" align="center">
+  <img src="https://i.gifer.com/2d12.gif" width="100"/>
+</div>
 ### Hi there 👋
 
 <!--
