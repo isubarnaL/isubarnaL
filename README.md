@@ -1,7 +1,13 @@
-### <div align="center">
-  <img src="1.png" width="300"/></div>
+### 
+<div align="center">
+  <br>
+</div> 
+<div align="center">
+  <img src="https://tenor.com/view/luffy-monkey-d-luffy-yo-yo-luffy-hi-gif-16664977.gif" width="200"/>
+</div> 
+<br>
 
----
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -22,6 +28,12 @@
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </div>
+  
+  
+  
+  ### 
+<div align="center">
+  <img src="1.png" width="300"/></div>
 <!--
 **isubarnaL/isubarnaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
