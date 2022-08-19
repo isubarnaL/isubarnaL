@@ -1,7 +1,7 @@
-<div id="header" align="center">
-  <img src="https://i.gifer.com/2d12.gif" width="100"/>
+### <div id="header" align="center">
+  <img src="1.png" width="300"/>
 </div>
-### Hi there 👋
+
 
 <!--
 **isubarnaL/isubarnaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
