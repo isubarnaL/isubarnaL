@@ -25,6 +25,12 @@
 
 ---
 
+### :running: On My Way :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel " width="40" height="40"/>&nbsp;
+</div>
+---
+
 ### :laughing: Joke to Go<sub> (reload for another)</sub> :
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
