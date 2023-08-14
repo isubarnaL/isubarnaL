@@ -29,7 +29,7 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel " width="40" height="40"/>&nbsp;
 </div>
----
+
 <!--
 ### :sweat_smile: Joke to Go :
 <div align="center">
