@@ -29,18 +29,18 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="laravel" alt="laravel " width="40" height="40"/>&nbsp;
 </div>
-
----
 <!--
+---
+
 ### :sweat_smile: Joke to Go :
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </div>
   
  
-  
+  -->
   ### 
-   -->
+   
 <div align="center">
   <img src="1.png" width="300"/></div>
 <!--
