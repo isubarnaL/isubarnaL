@@ -32,7 +32,7 @@
 
 ---
 
-### :sweat_smile: Joke to Go<sub> (reload for another)</sub> :
+### :sweat_smile: Joke to Go :
 <div align="center">
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
   </div>
