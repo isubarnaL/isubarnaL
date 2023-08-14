@@ -42,8 +42,6 @@
   ### 
 <div align="center">
   <img src="1.png" width="300"/></div>
-  <div align="center">
-  :point_up_2:me always:point_up:</div>
 <!--
 **isubarnaL/isubarnaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
