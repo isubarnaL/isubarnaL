@@ -3,7 +3,7 @@
   <br>
 </div> 
 <div align="center">
-  <img src="https://i.imgur.com/Mi0YdXn.gif" width="200"/>
+  <img src="tenor.gif" width="200"/>
 </div> 
 <br>
 
