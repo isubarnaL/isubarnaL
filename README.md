@@ -23,12 +23,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" title="laravel" alt="laravel " width="60" height="60"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python " width="60" height="60"/>&nbsp;
+  
 </div>
 
 ---
 
 ### :running: On My Way :
 <div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" alt="kotlin " width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="flutter " width="60" height="60"/>&nbsp;
 </div>
 
