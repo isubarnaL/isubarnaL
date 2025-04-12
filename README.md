@@ -30,7 +30,7 @@
 
 ### :running: On My Way :
 <div>
-   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original-wordmark.svg" title="kotlin" alt="kotlin " width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain-wordmark.svg" title="kotlin" alt="kotlin " width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-plain.svg" title="Flutter" alt="flutter " width="60" height="60"/>&nbsp;
 </div>
 
