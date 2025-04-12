@@ -3,7 +3,7 @@
   <br>
 </div> 
 <div align="center">
-  <img src="https://tenor.com/view/luffy-monkey-d-luffy-yo-yo-luffy-hi-gif-16664977.gif" width="200"/>
+  <img src="https://c.tenor.com/UTxKJNlZilwAAAAC/tenor.gif" width="200"/>
 </div> 
 <br>
 
